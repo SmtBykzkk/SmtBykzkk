@@ -1,10 +1,8 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png)
 <h1 align="center">Hi , I'm Samet Böyüközkök</h1>
-<h3 align="center">A passionate ASP.NET Developer from Turkey.</h3>
+<h3 align="center">A passionate Data Scientist from Turkey.</h3>
 
-- 🔭 I’m currently working on **ASP.NET**
-
-- 🌱 I’m currently learning **ASP.NET MVC Framework**
+- 🌱 I’m currently learning **SQL-Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmtBykzkk?tab=repositories](https://github.com/SmtBykzkk?tab=repositories)
 
