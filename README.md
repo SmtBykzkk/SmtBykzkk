@@ -1,4 +1,4 @@
-![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png)
+![MasterHead](https://www.linkedin.com/in/sametbykzkk/overlay/background-image/)
 <h1 align="center">Hi , I'm Samet Böyüközkök</h1>
 <h3 align="center">A passionate Data Scientist from Turkey.</h3>
 
