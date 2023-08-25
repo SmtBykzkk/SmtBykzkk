@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Samet Böyüközkök</h1>
 <h3 align="center">A passionate Data Scientist from Turkey.</h3>
 
-- 🌱 I’m currently learning **SQL-Data Science**
+- 🌱 I’m currently learning **Python-SQL-Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmtBykzkk?tab=repositories](https://github.com/SmtBykzkk?tab=repositories)
 
